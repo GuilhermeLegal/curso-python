@@ -8,4 +8,3 @@ e = n1 ** n2
 su = n1 - n2
 print('A soma é {} o produto é {:.1f} e a divisão é {}'.format(s, d, di), end=' ')
 print('A divisão inteira É {} subtração {} e potencia {}'.format(di, su, e))
-
